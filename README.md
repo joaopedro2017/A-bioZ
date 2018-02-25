@@ -6,6 +6,8 @@ Com tal software será possivel representar de forma animada e pratica como exem
 
 A-bioZ é um software livre, podendo ser usado sem restrições no âmbito escolar.
 
+Para acessar os primeiros testes acesse https://thtmorais.github.io/A-bioZ/testes/initial.html
+
 # Desenvolvedores A-bioZ
 
   @thtmorais - thtmorais@hotmail.com
